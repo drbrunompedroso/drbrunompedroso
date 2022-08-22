@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Saudações!!!</h1>
+<p>
+  Atuo na pesquisa e desenvolvimento de sistemas inteligentes baseados em Inteligência Artificial, bem como na docência de componentes curriculares voltados á Programação Aplicada á Sistemas Embarcados e Plataformas Desktop utilizando as Linguagens C\C++, Python, C#, Ladder, entre outras.<br>
+</p>
 
-<!--
-**drbrunompedroso/drbrunompedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+* Doutorado em Engenharia Biomédica 
+* Mestrado em Engenharia Biomédica
+* Pós - Graduação em Automação Industrial
+* Extensão em Sistemas Eletrônicos para Controle
+* Licenciatura em Eletrônica
+* Graduação em Automação Industrial
+* Técnico em Mecatrônica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+--[Linkedin](https://www.linkedin.com/in/bruno-medina-pedroso-ph-d-b3651286/)
+--[GitHub](https://github.com/drbrunompedroso)
+--[Site](https://profbrunopedroso.webnode.page/)
