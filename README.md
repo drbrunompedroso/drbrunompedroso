@@ -1,6 +1,6 @@
 <h1>Saudações!!!</h1>
 <p>
-  Atuo na pesquisa e desenvolvimento de sistemas inteligentes baseados em Inteligência Artificial, bem como na docência de componentes curriculares voltados á Programação Aplicada á Sistemas Embarcados e Plataformas Desktop utilizando as Linguagens C\C++, Python, C#, Ladder, entre outras.<br>
+  Atuo na pesquisa e desenvolvimento de sistemas inteligentes baseados em Inteligência Artificial, bem como na docência de componentes curriculares voltados à Programação Aplicada, Sistemas Embarcados e Plataformas Desktop utilizando as Linguagens C\C++, Python, C#, Ladder, entre outras.<br>
 </p>
 
 <hr>
